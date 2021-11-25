@@ -13,8 +13,8 @@ def merge(arr1, arr2)
   result.concat(arr1).concat(arr2)
 end
 
-arr1 = [4, 2, 7, 3, 9, 7, 3]
-arr2 = [8, 1, 5, 8, 2, 2, 6]
-p merge_sort(arr1)
-p merge_sort(arr2)
+# arr1 = [4, 2, 7, 3, 9, 7, 3]
+# arr2 = [8, 1, 5, 8, 2, 2, 6]
+# p merge_sort(arr1)
+# p merge_sort(arr2)
 
